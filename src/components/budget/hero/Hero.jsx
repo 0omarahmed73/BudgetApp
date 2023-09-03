@@ -10,7 +10,7 @@ export const Hero = () => {
     <div className="hero-budget">
       <div className="img">
         <div className="hero-budget-bg">
-          <img src="https://unsplash.it/1200/400" alt="randomImg" />
+          <img src="https://fastly.picsum.photos/id/11/1200/400.jpg?hmac=ccJLfrMtNOqRf1O75nz6R1DBMS-fpW4ZFJAVXPXJHTo" alt="randomImg" />
         </div>
         </div>
       <div className="container">
