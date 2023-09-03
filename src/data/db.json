@@ -1,0 +1,90 @@
+{
+  "transactions": [
+    {
+      "title": "Omar",
+      "amount": "1244",
+      "type": "expanse",
+      "category": "4",
+      "date": "2001-12-09",
+      "id": 12
+    },
+    {
+      "title": "Meee",
+      "amount": "231",
+      "type": "expanse",
+      "category": "4",
+      "date": "2001-12-09",
+      "id": 13
+    },
+    {
+      "title": "321",
+      "amount": "321",
+      "type": "expanse",
+      "category": "6",
+      "date": "2023-09-06",
+      "id": 14
+    },
+    {
+      "title": "442",
+      "amount": "1231",
+      "type": "expanse",
+      "category": "6",
+      "date": "2023-09-15",
+      "id": 15
+    },
+    {
+      "title": "1321",
+      "amount": "231",
+      "type": "expanse",
+      "category": "7",
+      "date": "2023-09-07",
+      "id": 16
+    },
+    {
+      "title": "MMM",
+      "amount": "13244",
+      "type": "income",
+      "category": "3",
+      "date": "",
+      "id": 17
+    },
+    {
+      "title": "Omar",
+      "amount": "213000",
+      "type": "income",
+      "category": "5",
+      "date": "2023-09-12",
+      "id": 18
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Business"
+    },
+    {
+      "id": 2,
+      "name": "Monthly incom"
+    },
+    {
+      "id": 3,
+      "name": "Investment"
+    },
+    {
+      "id": 4,
+      "name": "Home Needs"
+    },
+    {
+      "id": 5,
+      "name": "Bucket List"
+    },
+    {
+      "id": 6,
+      "name": "Savings"
+    },
+    {
+      "id": 7,
+      "name": "Freelance"
+    }
+  ]
+}
